@@ -9,7 +9,7 @@ public class Androidgit {
 	public void EighthTest()
 
 	{
-		System.out.print("8thTest");
+		System.out.print("8thTest888");
 	}
 	
 	@Test
@@ -17,7 +17,7 @@ public class Androidgit {
 	public void NinethTest()
 
 	{
-		System.out.print("9thTest");
+		System.out.print("9thTest999");
 	}
 	
 	@Test
@@ -25,6 +25,6 @@ public class Androidgit {
 	public void TenthTest()
 
 	{
-		System.out.print("10thTest");
+		System.out.print("10thTest1010");
 	}
 }

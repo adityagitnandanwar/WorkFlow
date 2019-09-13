@@ -10,7 +10,7 @@ public class Apigit {
 	public void FifththTest()
 
 	{
-		System.out.print("5thTest");
+		System.out.print("5thTest555");
 	}
 	
 	@Test
@@ -18,7 +18,7 @@ public class Apigit {
 	public void SixthTest()
 
 	{
-		System.out.print("6thTest");
+		System.out.print("6thTest666");
 	}
 	
 	@Test
@@ -26,6 +26,6 @@ public class Apigit {
 	public void SeventhTest()
 
 	{
-		System.out.print("7Test");
+		System.out.print("7Test777");
 	}
 }
